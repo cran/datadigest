@@ -1,0 +1,9 @@
+Name: codebookApp
+Description: Create interactive codebook from RStudio
+Binding: codebookApp
+Interactive: true
+
+Name: explorerApp
+Description: Create interactive codebook explorer from RStudio
+Binding: explorerApp
+Interactive: true
